@@ -1,2 +1,5 @@
-def square(x,y,z):
-    
+def square(k):
+    return k * k
+
+
+
